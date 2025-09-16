@@ -11,9 +11,9 @@ The goal is to study patient demographics, cancer types, cancer stages, metastas
 
 ## 🗂️ Project Structure
 This repository contains the following files:
-- 📑 Excel File [https://1drv.ms/f/c/39c9e31b3ccb38f2/Eu79V7txzdhFuzRiy7D12PQB3KEm4fonZtm6k5QXiXHKHw?e=bVyN1y] → Data cleaning and preprocessing  
+- 📑 Excel File  → Data cleaning and preprocessing  
 - 🗄️ SQL File   → Queries for data extraction and transformation  
-- 📊 Power BI File[https://1drv.ms/u/c/39c9e31b3ccb38f2/EbtWTQRXslZLktPebZJSQ1oBaBrCfP6wYb0FQRsn68ZgwA?e=awzHBq] → Interactive dashboard visualization  
+- 📊 Power BI File → Interactive dashboard visualization  
 
 ---
 
