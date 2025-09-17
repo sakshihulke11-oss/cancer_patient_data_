@@ -46,9 +46,6 @@ This repository contains the following files:
 - 🔹 Survival rate is 27.44%, while mortality rate is 7.56%.  
 - 🔹 Patient trends show fluctuations year over year.  
 
----
 
 
-## 📌 How to Use
 
-https://github.com/sakshihulke11-oss/cancer_patient_data_
